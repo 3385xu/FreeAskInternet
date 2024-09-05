@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "anyxu.com",
+        "anyxu.cc",
+		"anyxu.org",
+		"paypal.com",
+		"namesilo.com",
+		"vultr.com",
+		"cloudflare.com",
+		"virmach.com",
+		"deno.dev",
+		"oaifree.com",
+		"fuclaude.com",
+		"linux.do"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".anyxu.com",
+        ".anyxu.cc",
+		".anyxu.org",
+		".paypal.com",
+		".namesilo.com",
+		".vultr.com",
+		".cloudflare.com",
+		".virmach.com",
+		".deno.dev",
+		".oaifree.com",
+		".fuclaude.com",
+		".linux.do"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "anyxu.",
+        "vultr",
+		"paypal",
+		"namesilo",
+		"cloudflare",
+		"virmach",
+		"deno",
+		"oaifree",
+		"fuclaude",
+		"linux"
+      ]
+    },
+    {
+      "ip_cidr": [
+        ""
+      ]
+    }
+  ]
+}
